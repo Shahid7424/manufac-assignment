@@ -1,4 +1,4 @@
-✅ FINAL README.md (Ready to Paste into your GitHub Repo)
+
 # RSP Dashboard – Retail Selling Price Visualization (Petrol & Diesel)
 
 This project is a data-visualization dashboard built using **React + Vite + TypeScript**,  
