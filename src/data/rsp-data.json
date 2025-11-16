@@ -1,0 +1,149 @@
+[
+  { "Calendar Day": "2025-01-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.75" },
+  { "Calendar Day": "2025-01-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.80" },
+
+  { "Calendar Day": "2025-02-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "95.20" },
+  { "Calendar Day": "2025-02-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "89.10" },
+
+  { "Calendar Day": "2025-03-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "96.00" },
+  { "Calendar Day": "2025-03-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "89.90" },
+
+  { "Calendar Day": "2025-04-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "96.50" },
+  { "Calendar Day": "2025-04-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "90.30" },
+
+  { "Calendar Day": "2025-05-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "97.10" },
+  { "Calendar Day": "2025-05-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "90.75" },
+
+  { "Calendar Day": "2025-06-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "97.50" },
+  { "Calendar Day": "2025-06-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "91.10" },
+
+  { "Calendar Day": "2025-07-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "97.20" },
+  { "Calendar Day": "2025-07-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "90.60" },
+
+  { "Calendar Day": "2025-08-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "96.80" },
+  { "Calendar Day": "2025-08-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "90.20" },
+
+  { "Calendar Day": "2025-09-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "96.40" },
+  { "Calendar Day": "2025-09-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "89.95" },
+
+  { "Calendar Day": "2025-10-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "95.90" },
+  { "Calendar Day": "2025-10-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "89.40" },
+
+  { "Calendar Day": "2025-11-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "95.20" },
+  { "Calendar Day": "2025-11-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "89.00" },
+
+  { "Calendar Day": "2025-12-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.90" },
+  { "Calendar Day": "2025-12-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.75" },
+
+
+  { "Calendar Day": "2025-01-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "96.50" },
+  { "Calendar Day": "2025-01-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "89.40" },
+
+  { "Calendar Day": "2025-02-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "97.20" },
+  { "Calendar Day": "2025-02-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "89.90" },
+
+  { "Calendar Day": "2025-03-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "96.80" },
+  { "Calendar Day": "2025-03-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "89.10" },
+
+  { "Calendar Day": "2025-04-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "97.10" },
+  { "Calendar Day": "2025-04-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "90.20" },
+
+  { "Calendar Day": "2025-05-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "97.60" },
+  { "Calendar Day": "2025-05-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "90.90" },
+
+  { "Calendar Day": "2025-06-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "97.90" },
+  { "Calendar Day": "2025-06-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "91.40" },
+
+  { "Calendar Day": "2025-07-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "97.50" },
+  { "Calendar Day": "2025-07-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "90.70" },
+
+  { "Calendar Day": "2025-08-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "97.10" },
+  { "Calendar Day": "2025-08-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "90.30" },
+
+  { "Calendar Day": "2025-09-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "96.70" },
+  { "Calendar Day": "2025-09-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "89.90" },
+
+  { "Calendar Day": "2025-10-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "96.20" },
+  { "Calendar Day": "2025-10-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "89.30" },
+
+  { "Calendar Day": "2025-11-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "95.80" },
+  { "Calendar Day": "2025-11-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "88.90" },
+
+  { "Calendar Day": "2025-12-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "95.55" },
+  { "Calendar Day": "2025-12-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "88.60" },
+
+
+
+  { "Calendar Day": "2024-01-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "91.50" },
+  { "Calendar Day": "2024-01-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "86.40" },
+
+  { "Calendar Day": "2024-02-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "92.20" },
+  { "Calendar Day": "2024-02-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "87.10" },
+
+  { "Calendar Day": "2024-03-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "93.00" },
+  { "Calendar Day": "2024-03-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "87.60" },
+
+  { "Calendar Day": "2024-04-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.00" },
+  { "Calendar Day": "2024-04-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.00" },
+
+  { "Calendar Day": "2024-05-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.50" },
+  { "Calendar Day": "2024-05-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.40" },
+
+  { "Calendar Day": "2024-06-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.90" },
+  { "Calendar Day": "2024-06-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.65" },
+
+  { "Calendar Day": "2024-07-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "95.10" },
+  { "Calendar Day": "2024-07-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.90" },
+
+  { "Calendar Day": "2024-08-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.60" },
+  { "Calendar Day": "2024-08-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "88.20" },
+
+  { "Calendar Day": "2024-09-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "94.20" },
+  { "Calendar Day": "2024-09-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "87.90" },
+
+  { "Calendar Day": "2024-10-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "93.80" },
+  { "Calendar Day": "2024-10-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "87.40" },
+
+  { "Calendar Day": "2024-11-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "93.20" },
+  { "Calendar Day": "2024-11-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "86.90" },
+
+  { "Calendar Day": "2024-12-01", "Metro Cities": "Delhi", "Products": "Petrol", "Retail Selling Price": "92.80" },
+  { "Calendar Day": "2024-12-01", "Metro Cities": "Delhi", "Products": "Diesel", "Retail Selling Price": "86.60" },
+
+  { "Calendar Day": "2024-01-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "80.80" },
+  { "Calendar Day": "2024-01-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "70.60" },
+  { "Calendar Day": "2024-02-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "81.50" },
+  { "Calendar Day": "2024-02-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "71.20" },
+
+  { "Calendar Day": "2024-03-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "82.30" },
+  { "Calendar Day": "2024-03-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "71.80" },
+
+  { "Calendar Day": "2024-04-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "83.10" },
+  { "Calendar Day": "2024-04-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "72.40" },
+
+  { "Calendar Day": "2024-05-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "83.70" },
+  { "Calendar Day": "2024-05-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "72.90" },
+
+  { "Calendar Day": "2024-06-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "84.20" },
+  { "Calendar Day": "2024-06-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "73.30" },
+
+  { "Calendar Day": "2024-07-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "84.50" },
+  { "Calendar Day": "2024-07-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "73.60" },
+
+  { "Calendar Day": "2024-08-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "84.10" },
+  { "Calendar Day": "2024-08-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "73.20" },
+
+  { "Calendar Day": "2024-09-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "83.70" },
+  { "Calendar Day": "2024-09-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "72.80" },
+
+  { "Calendar Day": "2024-10-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "83.20" },
+  { "Calendar Day": "2024-10-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "72.30" },
+
+  { "Calendar Day": "2024-11-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "82.80" },
+  { "Calendar Day": "2024-11-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "71.90" },
+
+  { "Calendar Day": "2024-12-01", "Metro Cities": "Mumbai", "Products": "Petrol", "Retail Selling Price": "82.50" },
+  { "Calendar Day": "2024-12-01", "Metro Cities": "Mumbai", "Products": "Diesel", "Retail Selling Price": "71.60" }
+  
+]
+
